@@ -17,6 +17,9 @@ Course Materials for 基于开源环境的创意建模
 - Final Project: Coding Challenge for Creativity
 
 ### processing IDE下载链接
+包括Windows 64-bit、Windows 32-bit、Linux 64-bit、Linux 32-bit、Linux ARMv6hf、Mac OS X等各种版本。
+
+- [processing IDE](https://www.processing.org/download/)
 
 ### 相关学习资料
 - 图书
