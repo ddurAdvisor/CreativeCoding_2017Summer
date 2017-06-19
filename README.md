@@ -21,6 +21,17 @@ Course Materials for 基于开源环境的创意建模
 
 - [processing IDE](https://www.processing.org/download/)
 
+### 其他IDE下载
+
+![eclipse](https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-426x100.png/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+
+![IntelliJ IDEA](http://img1.imgtn.bdimg.com/it/u=3819341678,3685832301&fm=26&gp=0.jpg)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
+
+![Sublime Text 3](http://img3.imgtn.bdimg.com/it/u=854812556,4043680463&fm=26&gp=0.jpg)
+- [Sublime Text 3](https://www.sublimetext.com/3)
+
 ### 相关学习资料
 #### 图书  
 
@@ -42,17 +53,29 @@ Course Materials for 基于开源环境的创意建模
 ![img](https://images-na.ssl-images-amazon.com/images/I/51fKQ8KmCHL.jpg)
 - [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](https://www.amazon.com/Processing-Visual-Artists-Expressive-Interactive/dp/1568817169/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1568817169&pd_rd_r=39EFQ5BMNBS5Q3KR9DZ3&pd_rd_w=6bWbS&pd_rd_wg=JmWHL&psc=1&refRID=39EFQ5BMNBS5Q3KR9DZ3)
 
-- 博客网站
+#### wiki
+- [processing wiki](https://github.com/processing/processing/wiki)
 
-- 视频
+#### Forum
+
+- [processing forum](https://forum.processing.org/two/)
+- [stackoverflow](https://stackoverflow.com/)
+
+#### 视频
+
+- [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi&index=1)
+- [Jose Sanchez: Processing Tutorial Series](https://www.youtube.com/watch?v=9UcL8B0GQuE)
+- [vimeo generative design](https://vimeo.com/search/page:1/sort:relevant/format:thumbnail?q=generative%20design%20processing)
 
 #### 参考项目链接
 
-- 项目A
-- 项目B
-- 项目C
-- 其他项目
+- [openprocessing](https://www.openprocessing.org/)
+- [creativeapplications](http://www.creativeapplications.net/)
 
 #### 参考网站
 
 - [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
+
+#### 相关课程
+
+- [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)
