@@ -23,13 +23,10 @@ Course Materials for 基于开源环境的创意建模
 
 ### 其他IDE下载
 
-![eclipse](https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-426x100.png/)
 - [Eclipse](https://www.eclipse.org/downloads/)
 
-![IntelliJ IDEA](http://img1.imgtn.bdimg.com/it/u=3819341678,3685832301&fm=26&gp=0.jpg)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
-![Sublime Text 3](http://img3.imgtn.bdimg.com/it/u=854812556,4043680463&fm=26&gp=0.jpg)
 - [Sublime Text 3](https://www.sublimetext.com/3)
 
 ### 相关学习资料
