@@ -7,6 +7,6 @@ Course Materials for 基于开源环境的创意建模
 
 ### 具体内容如下：
 
-- [Processing工作坊课程]()
+- [Arduino工作坊课程](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ArduinoCourse)
 
-- [Arduino工作坊课程]()
+- [Processing工作坊课程]()
