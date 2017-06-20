@@ -24,6 +24,10 @@ Course Materials for 基于开源环境的创意建模
 
 - [processing IDE](https://www.processing.org/download/)
 
+- [processing MACOS](链接：http://pan.baidu.com/s/1jIBS36e) 密码：rl3f
+
+- [processing WIN64](链接：http://pan.baidu.com/s/1dFhA9R7) 密码：szu5
+
 ### 其他IDE下载
 
 - [Eclipse](https://www.eclipse.org/downloads/)
