@@ -12,6 +12,7 @@
 - Processing IDE介绍
 - Processing开发资源
 - Processing程序编写（"Hello World!"）
+- [课堂范例程序](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/LiveCodingExamples)
 
 ### 关键知识点
 
