@@ -60,7 +60,9 @@ https://www.arduino.cc/
 
 #### 参考项目链接
 
-- 
+- [nokia snake game with arduino](https://create.arduino.cc/projecthub/circuito-io-team/retro-nokia-snake-game-with-arduino-f8163b?ref=similar&ref_id=19700&offset=1)
+
+- [arduino web based mp3 player](https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-mp3-player-9bc616?ref=similar&ref_id=43623&offset=2)
 
 #### 参考网站
 
