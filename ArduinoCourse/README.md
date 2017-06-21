@@ -6,14 +6,12 @@
 
 ### 具体内容如下：
 
-- Day1Part1: [创意建模的基本概念](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_01_BasicConcepts)
-- Day1Part2: [编程模式与语法基础：Loop与Function](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_02_Loops%20and%20functions)
-- Day2Part1:[编程模式与语法基础：Transformation](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_03_Transformations)
-- Day2Part2:[编程模式与语法基础：Motion](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_04_Motion)
-- Day3: ALGORITHMIC THINKING AND CREATIVITY
-- Day4: COLOUR, IMAGE, SOUND AND RANDOMNESS
-- Day5: TEXT AND TYPOGRAPHY
-- Day6: EVOLUTION AND ECOSYSTEMS
+- Day1:
+- Day2:
+- Day3: 
+- Day4: 
+- Day5: 
+- Day6: 
 - Final Project: Coding Challenge for Creativity
 
 ### Arduino下载链接
