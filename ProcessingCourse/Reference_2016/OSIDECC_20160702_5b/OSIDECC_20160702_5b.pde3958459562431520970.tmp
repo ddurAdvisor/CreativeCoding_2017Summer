@@ -1,0 +1,19 @@
+PImage img;
+
+void setup() {
+  size(1280, 720);
+  img = loadImage("sunSet.jpg");
+  imageMode(CENTER);
+  img.resize(width, height);
+  noStroke();
+  background(50);
+}
+
+void draw() { 
+  int x = int(random(img.width));
+  int y = int(random(img.height));
+  color pix = img.get(x, y);
+  float ellR = map(brightness(pix),0,255,10,40);
+  fill(pix);
+  ellipse(x, y, ellR*2, ellR*2);
+}
