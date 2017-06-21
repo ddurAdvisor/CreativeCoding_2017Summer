@@ -31,7 +31,7 @@ https://www.arduino.cc/
 ### 相关学习资料
 #### 图书  
 
-![img]()
+![img](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/blob/master/ArduinoCourse/images/programming%20arduino%202.jpeg)
 - [Programming Arduino: Getting Started with Sketches, Second Edition](https://www.amazon.com/gp/aw/d/1259641635/ref=mp_s_a_1_1?ie=UTF8&qid=1498010773&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=arduino+book&dpPl=1&dpID=51sL887ub5L&ref=plSrch)
 
 
