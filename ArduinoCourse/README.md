@@ -52,7 +52,7 @@ https://www.arduino.cc/
 #### Forum
 
 - [Arduino Forum](https://forum.arduino.cc/)
-- []()
+- [SparkFun Electronics](https://forum.sparkfun.com/viewforum.php?f=32)
 
 #### 视频
 
