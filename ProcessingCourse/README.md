@@ -11,8 +11,10 @@ Course Materials for 基于开源环境的创意建模
 说明：本库为《基于开源环境的创意建模》课程而准备，内容为以processing为主要IDE（也会涉及到javascript的一些编程工作）的创意编程。
 ### 具体内容如下：
 
-- Day1: [创意建模的基本概念](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_01_BasicConcepts)
-- Day2: [编程模式与语法基础：Loop与Function](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_02_Loops%20and%20functions)
+- Day1Part1: [创意建模的基本概念](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_01_BasicConcepts)
+- Day1Part2: [编程模式与语法基础：Loop与Function](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day1_workshop/ReferenceCode_02_Loops%20and%20functions)
+- Day2Part1:[编程模式与语法基础：Transformation](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_03_Transformations)
+- Day2Part2:[编程模式与语法基础：Motion](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Day2_workshop/ReferenceCode_04_Motion)
 - Day3: ALGORITHMIC THINKING AND CREATIVITY
 - Day4: COLOUR, IMAGE, SOUND AND RANDOMNESS
 - Day5: TEXT AND TYPOGRAPHY
