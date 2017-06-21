@@ -37,28 +37,26 @@ https://www.arduino.cc/
 
 
 #### wiki
-- [processing wiki](https://github.com/processing/processing/wiki)
+- []()
 
 #### Forum
 
-- [processing forum](https://forum.processing.org/two/)
-- [stackoverflow](https://stackoverflow.com/)
+- []()
+- []()
 
 #### 视频
 
-- [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi&index=1)
-- [Jose Sanchez: Processing Tutorial Series](https://www.youtube.com/watch?v=9UcL8B0GQuE)
-- [vimeo generative design](https://vimeo.com/search/page:1/sort:relevant/format:thumbnail?q=generative%20design%20processing)
+- []()
+- []()
+- []()
 
 #### 参考项目链接
 
-- [openprocessing](https://www.openprocessing.org/)
-- [creativeapplications](http://www.creativeapplications.net/)
+- 
 
 #### 参考网站
 
-- [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
-
+- 
 #### 相关课程
 
-- [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)
+-
