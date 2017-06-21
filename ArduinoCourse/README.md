@@ -68,4 +68,4 @@ https://www.arduino.cc/
 - [ServDuino - Build Your Own Arduino Web Server](http://www.instructables.com/id/ServDuino-Arduino-Webserver/)
 #### 相关课程
 
--[physical computing ](http://ideate.cmu.edu/undergraduate-programs/physical-computing/)
+- [physical computing ](http://ideate.cmu.edu/undergraduate-programs/physical-computing/)
