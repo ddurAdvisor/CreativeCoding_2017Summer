@@ -10,8 +10,7 @@
 - Day2:
 - Day3: 
 - Day4: 
-- Day5: 
-- Day6: 
+- Day5:
 - Final Project: Coding Challenge for Creativity
 
 ### Arduino下载链接
@@ -54,9 +53,9 @@ https://www.arduino.cc/
 
 #### 视频
 
-- []()
-- []()
-- []()
+- [Tutorial Series for Arduino](https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84)
+- [Top 10 Best Arduino Projects](https://www.youtube.com/watch?v=VkSdMsZjDZY)
+- [Arduino Robotics Tutorial for Beginners](https://www.youtube.com/watch?v=-Jsvg6u9CYI)
 
 #### 参考项目链接
 
@@ -66,7 +65,7 @@ https://www.arduino.cc/
 
 #### 参考网站
 
-- 
+- [ServDuino - Build Your Own Arduino Web Server](http://www.instructables.com/id/ServDuino-Arduino-Webserver/)
 #### 相关课程
 
 -[physical computing ](http://ideate.cmu.edu/undergraduate-programs/physical-computing/)
