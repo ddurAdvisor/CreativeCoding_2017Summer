@@ -35,6 +35,16 @@ https://www.arduino.cc/
 - [Programming Arduino: Getting Started with Sketches, Second Edition](https://www.amazon.com/gp/aw/d/1259641635/ref=mp_s_a_1_1?ie=UTF8&qid=1498010773&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=arduino+book&dpPl=1&dpID=51sL887ub5L&ref=plSrch)
 
 
+![img]()
+- [Exploring Arduino: Tools and Techniques for Engineering Wizardry](https://www.amazon.com/Exploring-Arduino-Techniques-Engineering-Wizardry/dp/1118549368/ref=sr_1_2?ie=UTF8&qid=1498011613&sr=8-2&keywords=Arduino+book)
+
+![img]()
+- [Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)](https://www.amazon.com/Getting-Started-Arduino-Electronics-Prototyping/dp/1449363334/ref=sr_1_3?ie=UTF8&qid=1498011613&sr=8-3&keywords=Arduino+book)
+
+![img]()
+- [Arduino For Dummies](https://www.amazon.com/Arduino-Dummies-John-Nussey/dp/1118446372/ref=sr_1_4?ie=UTF8&qid=1498011613&sr=8-4&keywords=Arduino+book)
+
+
 
 #### wiki
 - []()
