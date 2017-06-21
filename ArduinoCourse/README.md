@@ -6,11 +6,11 @@
 
 ### 具体内容如下：
 
-- Day1:
-- Day2:
-- Day3: 
-- Day4: 
-- Day5:
+- Day1:Arduino简介，定位，用途，特色与学习资料，实验讲解
+- Day2:Arduino语法讲解，实验讲解
+- Day3: 实验讲解
+- Day4: 实验讲解
+- Day5:实验讲解
 - Final Project: Coding Challenge for Creativity
 
 ### Arduino下载链接
